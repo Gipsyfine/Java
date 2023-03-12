@@ -2,7 +2,7 @@ package com.gipsyfine.cases;
 
 import java.util.Scanner;
 
-public class case02 {
+public class Case02 {
     public static void main(String[] args) {
         /*
          *假如你有20元，至少需要购买1本书，剩余的钱还可以购买那些东西。

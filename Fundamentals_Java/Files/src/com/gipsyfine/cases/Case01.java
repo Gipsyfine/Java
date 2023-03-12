@@ -2,7 +2,7 @@ package com.gipsyfine.cases;
 
 import java.util.Scanner; // 导入 Scanner 类
 
-public class case01 {
+public class Case01 {
     public static void main(String[] args) {
         /*
         现在有两款手机华为与小米需要做入库处理，我们需要编写一个程序来实现商品的入库，
